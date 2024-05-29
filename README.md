@@ -1,5 +1,5 @@
 ## About
-This program is a student data management system developed using the C programming language. It allows users to add student data, input academic grades, and easily display the registered student data efficiently.
+The Student Data Management Program is a simple console-based application designed to manage student information efficiently. This application allows users to add new students, enter and update their scores, and view student data with sorting options. The primary goal of this program is to provide an easy-to-use interface for managing student records and performing basic operations like adding, updating, and viewing student data.
 
 ## Features
 
