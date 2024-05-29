@@ -42,4 +42,3 @@ This program is a student data management system developed using the C programmi
 10. Menu Navigation
 
    Provides navigation through the menu with options to continue or return to the main menu.
-   
