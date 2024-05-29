@@ -39,8 +39,8 @@ This program is a student data management system developed using the C programmi
 
    This feature allows the user to enter new scores for assignments, midterm exams, or final exams for a specific student.
 
-10. Menu Navigation
+- Menu Navigation
 
-   Provides navigation through the menu with options to continue or return to the main menu.
+Provides navigation through the menu with options to continue or return to the main menu.
 
    
